@@ -1,0 +1,14 @@
+# Con nuestras Funciones, también podemos hacer un bucle for
+end = CTRL{0}
+return = 1
+for("in" in "to" to "each" each) = CLASS for = VAR in (200),
+end,
+VAR to (200),
+end,
+VAR each (200),
+end,
+CTRL bucle_for {return, in += (in < to)*each});
+
+for(in 1 to 10 each 0.5)
+VAR print(1, "repetir")
+#output: repetir x 20
